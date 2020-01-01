@@ -9,4 +9,8 @@ public class ClassA {
     public void methodA() {
         System.out.println("this is the first version");
     }
+
+    public void methodB() {
+        System.out.println("this is the third version");
+    }
 }
