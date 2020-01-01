@@ -17,4 +17,7 @@ public class ClassA {
     public void methodC() {
         System.out.println("this is from the fourth version");
     }
+
+    public void methodInjected() {
+    }
 }
