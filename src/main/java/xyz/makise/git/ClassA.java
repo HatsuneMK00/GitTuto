@@ -13,11 +13,4 @@ public class ClassA {
     public void methodB() {
         System.out.println("this is the third version");
     }
-
-    public void methodC() {
-        System.out.println("this is from the fourth version");
-    }
-
-    public void methodInjected() {
-    }
 }
