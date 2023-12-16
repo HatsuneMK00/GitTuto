@@ -9,4 +9,8 @@ public class ClassD {
     public void methodDAnother() {
         System.out.println("this is the fourth version");
     }
+
+    public void methodDFromOther() {
+        System.out.println("this is the fourth version");
+    }
 }
