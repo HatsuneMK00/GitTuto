@@ -38,4 +38,8 @@ public class ClassA {
     public void methodGFromOther() {
         System.out.println("this is the seventh version");
     }
+
+    public void methodHFromOther() {
+        System.out.println("this is the eighth version");
+    }
 }
