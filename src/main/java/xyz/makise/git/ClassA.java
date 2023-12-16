@@ -13,4 +13,8 @@ public class ClassA {
     public void methodB() {
         System.out.println("this is the third version");
     }
+
+    public void methodCFromOther() {
+        System.out.println("this is the second version");
+    }
 }
