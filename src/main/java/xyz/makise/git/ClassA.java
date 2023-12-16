@@ -21,4 +21,9 @@ public class ClassA {
     public void methodCFromOther() {
         System.out.println("this is the second version");
     }
+
+
+    public void methodDFromOther() {
+        System.out.println("this is the fourth version");
+    }
 }
