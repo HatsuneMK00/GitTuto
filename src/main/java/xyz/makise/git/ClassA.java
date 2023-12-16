@@ -34,4 +34,8 @@ public class ClassA {
     public void methodFFromOther() {
         System.out.println("this is the sixth version");
     }
+
+    public void methodGFromOther() {
+        System.out.println("this is the seventh version");
+    }
 }
