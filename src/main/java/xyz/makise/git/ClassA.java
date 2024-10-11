@@ -41,5 +41,6 @@ public class ClassA {
 
     public void methodHFromOther() {
         System.out.println("this is the eighth version");
+        System.out.println("hello from online");
     }
 }
